@@ -1,0 +1,14 @@
+E:\Program\Unity\asset\plugin\我的插件\CodeCreator\CodeCreator\bin\Release\CodeCreator.exe.config
+E:\Program\Unity\asset\plugin\我的插件\CodeCreator\CodeCreator\bin\Release\CodeCreator.exe
+E:\Program\Unity\asset\plugin\我的插件\CodeCreator\CodeCreator\bin\Release\CodeCreator.pdb
+E:\Program\Unity\asset\plugin\我的插件\CodeCreator\CodeCreator\obj\Release\CodeCreator.csprojAssemblyReference.cache
+E:\Program\Unity\asset\plugin\我的插件\CodeCreator\CodeCreator\obj\Release\CodeCreator.FrmMain.resources
+E:\Program\Unity\asset\plugin\我的插件\CodeCreator\CodeCreator\obj\Release\CodeCreator.Properties.Resources.resources
+E:\Program\Unity\asset\plugin\我的插件\CodeCreator\CodeCreator\obj\Release\CodeCreator.csproj.GenerateResource.cache
+E:\Program\Unity\asset\plugin\我的插件\CodeCreator\CodeCreator\obj\Release\CodeCreator.csproj.CoreCompileInputs.cache
+E:\Program\Unity\asset\plugin\我的插件\CodeCreator\CodeCreator\obj\Release\CodeCreator.exe
+E:\Program\Unity\asset\plugin\我的插件\CodeCreator\CodeCreator\obj\Release\CodeCreator.pdb
+E:\Program\Unity\asset\plugin\我的插件\CodeCreator\CodeCreator\bin\Release\CodeCreator.exe.manifest
+E:\Program\Unity\asset\plugin\我的插件\CodeCreator\CodeCreator\bin\Release\CodeCreator.application
+E:\Program\Unity\asset\plugin\我的插件\CodeCreator\CodeCreator\obj\Release\CodeCreator.exe.manifest
+E:\Program\Unity\asset\plugin\我的插件\CodeCreator\CodeCreator\obj\Release\CodeCreator.application
